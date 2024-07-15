@@ -1,3 +1,6 @@
+## Redis is often used for caching due to its unique features and advantages, which make it an ideal choice for this purpose
+   - <b>High Performance</b>: Redis is an in-memory data store, meaning it stores data in RAM. This allows for extremely fast read and write operations, often in the order of microseconds to milliseconds, which is crucial for caching purposes.
+### To configure Redis as the data store for Spring Boot cache
    - ### Step 1: Ensure Redis Server is Running
   For Windows:
   
